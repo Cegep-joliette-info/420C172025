@@ -6,10 +6,15 @@
 ## Notes de cours
 
  * [Installation](notes/install.md)
+ * Chapitre 1 - Python éléments de base
+   1. [Mots réservés](notes/chapitre1/mots-reserves.md)
+   2. [Opérateurs et expressions](notes/chapitre1/operateurs.md)
+   3. [Constantes](notes/chapitre1/constantes.md)
 
 ## Ateliers
  * Chapitre 1
    * [Atelier 1 - Types](ateliers/chapitre1/atelier1.md)
+   * [Atelier 2 - Expressions](ateliers/chapitre1/atelier2.md)
 
 ## Ressources
 
