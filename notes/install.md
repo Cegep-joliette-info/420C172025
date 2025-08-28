@@ -22,7 +22,9 @@ Il faut installer l'extension Python (voir image un peu plus bas avec les étape
 
 ![Copie d'écran installation plugin](../imgs/install/vscode-plugin-python.png)
 
-Pour vous aider, installez aussi l'extension `Pyright` qui permet la vérification de typage.
+Dans la configuration de VSCode, cherchez `python.analysis.typechecking` et dans "Python › Analysis: Type Checking Mode", choisir "strict".
+
+Sur Linux, installez l'extension pyright car l'extension PyLance ne semble pas fonctionner.
 
 ### PyCharm
 
