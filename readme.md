@@ -13,6 +13,7 @@
  * Chapitre 2 - Instructions conditionnelles et itératives
    1. [If](notes/chapitre2/if.md)
    2. [Écrire et lire en console](notes/chapitre2/console.md)
+   3. [Match](notes/chapitre2/match.md)
 
 ## Ateliers
  * Chapitre 1
@@ -21,6 +22,7 @@
  * Chapitre 2
    * [Atelier 1 - If](ateliers/chapitre2/atelier1.md)
    * [Atelier 2 - Console](ateliers/chapitre2/atelier2.md)
+   * [Atelier 3 - Match](ateliers/chapitre2/atelier3.md)
 
 ## Ressources
 
