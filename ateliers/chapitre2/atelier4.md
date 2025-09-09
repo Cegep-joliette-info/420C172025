@@ -1,4 +1,4 @@
-# Chapitre 2 - Atelier 7 - While
+# Chapitre 2 - Atelier 4 - While
 
 Tous les numéros (sauf le #1) doivent être résolus avec l'instruction `while`.
 
@@ -136,7 +136,7 @@ Veuillez entrer un nombre: 4
 3 * 4 = 12
 ```
 
-## Numéro 11
+## Numéro 11 - Défi
 
 Demandez 2 nombres à l'utilisateur. Faites l'exposant en utilisant seulement des additions.
 
