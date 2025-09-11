@@ -16,6 +16,7 @@
    2. [Écrire et lire en console](notes/chapitre2/console.md)
    3. [Match](notes/chapitre2/match.md)
    4. [While](notes/chapitre2/while.md)
+   5. [For](notes/chapitre2/for.md)
 
 ## Ateliers
  * Chapitre 1
@@ -26,6 +27,7 @@
    * [Atelier 2 - Console](ateliers/chapitre2/atelier2.md)
    * [Atelier 3 - Match](ateliers/chapitre2/atelier3.md)
    * [Atelier 4 - While](ateliers/chapitre2/atelier4.md)
+   * [Atelier 5 - For](ateliers/chapitre2/atelier5.md)
 
 ## Ressources
 
