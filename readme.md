@@ -17,6 +17,7 @@
    3. [Match](notes/chapitre2/match.md)
    4. [While](notes/chapitre2/while.md)
    5. [For](notes/chapitre2/for.md)
+   6. [Git](notes/chapitre2/git.md)
 
 ## Ateliers
  * Chapitre 1
@@ -28,6 +29,7 @@
    * [Atelier 3 - Match](ateliers/chapitre2/atelier3.md)
    * [Atelier 4 - While](ateliers/chapitre2/atelier4.md)
    * [Atelier 5 - For](ateliers/chapitre2/atelier5.md)
+   * [Atelier 6 - Git](ateliers/chapitre2/atelier6.md)
 
 ## Ressources
 
