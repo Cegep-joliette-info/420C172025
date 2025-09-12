@@ -1,5 +1,9 @@
 # Chapitre 2 - Atelier 6 - Git
 
+## Tutoriel
+
+Voir cette page: [tutoriel git](atelier6_2.md)
+
 ## Ludique
 
 Téléchargez le jeu [Oh my git!](https://ohmygit.org/).
