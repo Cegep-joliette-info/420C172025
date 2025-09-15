@@ -17,7 +17,7 @@ Au début du jeu, offrez les difficultés suivantes à l'utilisateurs:
  * Difficile: Nombre entre 1 et 99, 5 essais
  * Impossible: Nombre entre 1 et 999, 1 essai
 
-En cas de choix invalide, affichez un message d'erreur puis reposez la question. Votre menu doit appeler une fonction qui gère le jeu.
+En cas de choix invalide, affichez un message d'erreur puis reposez la question.
 
 Défi: Ajoutez un 5e élément dans le menu: "Personnalisé", le joueur devra choisir le nombre maximal et le nombre d'essais.
 
@@ -84,3 +84,31 @@ Suite à une tentative, les informations doivent êtres ajustées :
  * Gestion des entrées (input)
  * Respect des normes
  * Bon choix d'instruction (if vs match, for vs while, if vs exceptions, etc.)
+
+## Annexe
+
+Couleurs dans le terminal:
+
+```py
+# \033[91m  Affiche en Rouge
+# \033[92m  Affiche en Vert
+# \033[0m   Affiche en Blanc/Noir (reset la couleur)
+# La couleur (vert ou rouge) reste pour tous les prints
+
+print('\033[91m' + 'ROUGE' + '\033[0m') # Affiche ROUGE en rouge puis remet en default pour la suite
+print('\033[92m' + 'VERT' + '\033[0m')  # Affiche VERT en vert puis remet en default pour la suite
+```
+
+Pour le nombre au hasard:
+
+```py
+import random # importe la librairie qui fait des aléatoires
+
+# mettre les constantes ici
+
+# mettre les variables ici
+
+# mettre le reste du code ici
+
+random.randint(1, 100) # Donne un nombre aléatoire entre 1 et 100 inclusivement
+```
