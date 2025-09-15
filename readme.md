@@ -31,6 +31,9 @@
    * [Atelier 5 - For](ateliers/chapitre2/atelier5.md)
    * [Atelier 6 - Git](ateliers/chapitre2/atelier6.md)
 
+## TP
+ * [TP1](tp/tp1.md)
+
 ## Ressources
 
  * [Normes et installation de logiciel](http://etudions.ca)
