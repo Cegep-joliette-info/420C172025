@@ -2,7 +2,7 @@
 
 Travail formatif (ne compte pas), mais sera corrigé comme un vrai projet.
 
-Travail indiviuel, à remettre avant le 22 septembre 8h00.
+Travail indiviuel, à remettre avant mardi le 23 septembre 8h00.
 
 ## Objectif
 

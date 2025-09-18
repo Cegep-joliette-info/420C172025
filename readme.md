@@ -18,6 +18,8 @@
    4. [While](notes/chapitre2/while.md)
    5. [For](notes/chapitre2/for.md)
    6. [Git](notes/chapitre2/git.md)
+   7. [Fonctions intégrées](notes/chapitre2/builtin.md)
+   8. [Exceptions](notes/chapitre2/exceptions.md)
 
 ## Ateliers
  * Chapitre 1
@@ -30,6 +32,8 @@
    * [Atelier 4 - While](ateliers/chapitre2/atelier4.md)
    * [Atelier 5 - For](ateliers/chapitre2/atelier5.md)
    * [Atelier 6 - Git](ateliers/chapitre2/atelier6.md)
+   * [Atelier 7 - Fonctions intégrés](ateliers/chapitre2/atelier7.md)
+   * [Atelier 8 - Exceptions](ateliers/chapitre2/atelier8.md)
 
 ## TP
  * [TP1](tp/tp1.md)
