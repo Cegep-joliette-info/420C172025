@@ -69,7 +69,7 @@ Suite à une tentative, les informations doivent êtres ajustées :
 ## Remise 
 
  * Remise sur le répertoire Git suivant: https://classroom.github.com/a/BnIhXscQ
- * Aucune autre méthode de remise ne sera accepté, les fichiers compressés seront refusé, votre répertoire Git doit respecter les normes vues en classe. Votre répertoire Git doit seulement contenir les fichiers du TP0 (1 seule version). En cas de non-respect de cette règle vous devrez corriger la situation, la pénalité de retard s'appliquera.
+ * Aucune autre méthode de remise ne sera accepté, les fichiers compressés seront refusé, votre répertoire Git doit respecter les normes vues en classe. Votre répertoire Git doit seulement contenir les fichiers du TP1 (1 seule version). En cas de non-respect de cette règle vous devrez corriger la situation, la pénalité de retard s'appliquera.
  * En cas de retard avertissez moi, sinon je télécharge les projets au moment de la remise
 
 ## Correction
