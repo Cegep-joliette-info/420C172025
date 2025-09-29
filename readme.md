@@ -20,6 +20,7 @@
    6. [Git](notes/chapitre2/git.md)
    7. [Fonctions intégrées](notes/chapitre2/builtin.md)
    8. [Exceptions](notes/chapitre2/exceptions.md)
+   9. [Fonctions](notes/chapitre2/fonction.md)
 
 ## Ateliers
  * Chapitre 1
@@ -34,6 +35,7 @@
    * [Atelier 6 - Git](ateliers/chapitre2/atelier6.md)
    * [Atelier 7 - Fonctions intégrés](ateliers/chapitre2/atelier7.md)
    * [Atelier 8 - Exceptions](ateliers/chapitre2/atelier8.md)
+   * [Atelier 9 - Fonctions](ateliers/chapitre2/atelier9.md)
 
 ## TP
  * [TP1](tp/tp1.md)
