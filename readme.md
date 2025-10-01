@@ -21,6 +21,8 @@
    7. [Fonctions intégrées](notes/chapitre2/builtin.md)
    8. [Exceptions](notes/chapitre2/exceptions.md)
    9. [Fonctions](notes/chapitre2/fonction.md)
+ * Chapitre 3 - Structure
+   1. [Tableaux avec NumPy](notes/chapitre3/numpy.md)
 
 ## Ateliers
  * Chapitre 1
@@ -36,6 +38,8 @@
    * [Atelier 7 - Fonctions intégrés](ateliers/chapitre2/atelier7.md)
    * [Atelier 8 - Exceptions](ateliers/chapitre2/atelier8.md)
    * [Atelier 9 - Fonctions](ateliers/chapitre2/atelier9.md)
+ * Chapitre 3
+   * [Atelier 1 - Tableaux](ateliers/chapitre3/atelier1.md)
 
 ## TP
  * [TP1](tp/tp1.md)
