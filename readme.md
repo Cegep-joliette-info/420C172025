@@ -23,6 +23,8 @@
    9. [Fonctions](notes/chapitre2/fonction.md)
  * Chapitre 3 - Structure
    1. [Tableaux avec NumPy](notes/chapitre3/numpy.md)
+   2. [Tableaux et fonctions](notes/chapitre3/numpy_fct.md)
+   3. [Chaînes avancés](notes/chapitre3/strings.md)
 
 ## Ateliers
  * Chapitre 1
@@ -40,6 +42,8 @@
    * [Atelier 9 - Fonctions](ateliers/chapitre2/atelier9.md)
  * Chapitre 3
    * [Atelier 1 - Tableaux](ateliers/chapitre3/atelier1.md)
+   * [Atelier 2 - Tableaux et fonctions](ateliers/chapitre3/atelier2.md)
+   * [Atelier 3 - Tableaux et chaînes](ateliers/chapitre3/atelier3.md)
 
 ## TP
  * [TP1](tp/tp1.md)
