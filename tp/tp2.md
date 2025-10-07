@@ -151,7 +151,7 @@ Tests:
 
 ## Spécifications
 
- * Toute instruction non-vue en classe (break, continue, return et autre dans une boucle par exemple) est retiré de votre code lors de la correction
+ * Toute instruction non-vue en classe (break, continue, plus de 1 return dans une fonction, etc.) est retiré de votre code lors de la correction
  * Aucune variable globale (déclarés au-dessus des fonctions) sauf les couleurs sont acceptés
  * Toutes les fonctions doivent être commentés avec les docStrings
  * Vous devez respecter les normes de programmation du département (casse, aération, nommage, indentation, position des accolades, code mort, etc.).
@@ -162,7 +162,7 @@ Tests:
 ## Remise 
 
  * Remise sur le répertoire Git suivant: https://classroom.github.com/a/0TyNskxr
- * Aucune autre méthode de remise ne sera accepté, les fichiers compressés seront refusé, votre répertoire Git doit respecter les normes vues en classe. Votre répertoire Git doit seulement contenir les fichiers du TP1 (1 seule version). En cas de non-respect de cette règle vous devrez corriger la situation, la pénalité de retard s'appliquera.
+ * Aucune autre méthode de remise ne sera accepté, les fichiers compressés seront refusé, votre répertoire Git doit respecter les normes vues en classe. Votre répertoire Git doit seulement contenir les fichiers du TP2 (1 seule version). En cas de non-respect de cette règle vous devrez corriger la situation, la pénalité de retard s'appliquera.
  * En cas de retard avertissez moi, sinon je télécharge les projets au moment de la remise
  * Assurez-vous de remettre le bon fichier (avec la bonne version)
 
