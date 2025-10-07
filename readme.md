@@ -51,5 +51,6 @@
 
 ## Ressources
 
+ * [Ressources supplémentaires](notes/ressources.md)
  * [Normes et installation de logiciel](http://etudions.ca)
  * [Discord du cours](https://discord.gg/EqKZYjytWx)
