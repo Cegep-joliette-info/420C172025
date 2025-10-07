@@ -2,14 +2,23 @@
 
 Notez que la majorité des ressources suivantes ne respectent pas les normes utilisés en classe, mais la logique Python reste bonne!
 
-## Codédex
+## Tutoriels ludiques en ligne
+
+Des tutoriels Python sous forme de jeu. En anglais.
+
+### Codédex
 
 https://www.codedex.io/python
 
-Tutoriel Python sous forme de jeu. En anglais.
-
 Gratuit pour les 4 premiers chapitres.
 Vous avez accès aux autres chapitres gratuitement pendant 6 mois si vous demandez votre [Github Student Developper Pack](https://education.github.com/pack).
+
+### Boot.dev
+
+https://www.boot.dev/
+
+Gratuit, mais seulement les premiers niveaux peuvent être complétés dans le jeu, la suite deviens un simple tutoriel.
+55$ par mois pour avoir accès à tout.
 
 ## Livres
 
