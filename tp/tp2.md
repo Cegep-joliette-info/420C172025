@@ -116,7 +116,7 @@ Tests: Essayez tous les nombres possibles, incluant des nombres trop gros
 
 ### `estDansTableau`
 
-Retourne un vrai ou faux qui indque si la lettre reçu se trouve dans le tableau reçu. Vous ne pouvez pas utiliser `in` ou un équivalent dans cette fonction.
+Retourne un vrai ou faux qui indque si la lettre reçu se trouve dans le tableau reçu. Vous ne pouvez pas utiliser les fonctions de recherches comme `find`, `in` ou autre.
 
 Tests:
  * Avec `'a'` et `[]`, donne `False`
