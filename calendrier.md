@@ -30,11 +30,11 @@ Ce calendrier est donné à titre indicatif, il ne sera pas ajusté immédiateme
 | Jeudi 16 octobre<br>**Horaire du lundi** | Temps TP2                                                |                               |
 | Vendredi 17 octobre                      | Temps TP2                                                |                               |
 | Lundi 20 octobre                         | **Examen intra**                                         | **Remise TP2**                |
-| Jeudi 23 octobre                         | Chapitre 3.4                                             |                               |
-| Vendredi 24 octobre                      | Retour sur l'examen                                      |                               |
+| Jeudi 23 octobre                         | *Malade pas de cours*                                    |                               |
+| Vendredi 24 octobre                      | Chapitre 3.4                                             |                               |
 | Lundi 27 octobre                         | Chapitre 3.5                                             |                               |
 | Jeudi 30 octobre                         | Chapitre 3.5 - suite                                     |                               |
-| Vendredi 31 octobre                      | Retour sur le TP1                                        |                               |
+| Vendredi 31 octobre                      | Retour sur l'examen et le TP2                            |                               |
 | Lundi 3 novembre                         | Chapitre 3.6                                             |                               |
 | Jeudi 6 novembre                         | Chapitres 3.7 et 3.8                                     |                               |
 | Vendredi 7 novembre                      |                                                          |                               |
