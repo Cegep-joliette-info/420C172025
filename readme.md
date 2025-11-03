@@ -26,6 +26,7 @@
    2. [Tableaux et fonctions](notes/chapitre3/numpy_fct.md)
    3. [Chaînes avancés](notes/chapitre3/strings.md)
    4. [Modules](notes/chapitre3/modules.md)
+   5. [Tests unitaires](notes/chapitre3/tests_unitaires.md)
 
 ## Ateliers
  * Chapitre 1
@@ -46,6 +47,7 @@
    * [Atelier 2 - Tableaux et fonctions](ateliers/chapitre3/atelier2.md)
    * [Atelier 3 - Tableaux et chaînes](ateliers/chapitre3/atelier3.md)
    * [Atelier 4 - Modules](ateliers/chapitre3/atelier4.md)
+   * [Atelier 5 - Tests unitaires](ateliers/chapitre3/atelier5.md)
 
 ## TP
  * [TP1](tp/tp1.md)
