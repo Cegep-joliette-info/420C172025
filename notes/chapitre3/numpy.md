@@ -53,9 +53,9 @@ print(len(a)) # Affiche 3
 Si vous ne connaissez pas le contenu au moment de la création du tableau, vous pouvez quand même en créer un avec une des fonctions suivantes:
 
 ```py
-a: npt.NDArray[np.int_] = np.empty(10, int) # Crée un tableau de type int de 10 cases, les valeurs sont aléatoires
-a: npt.NDArray[np.int_] = np.zeros(10, int) # Crée un tableau de type int de 10 cases, tous à zéro
-a: npt.NDArray[np.int_] = np.full(10, 42, int) # Crée un tableau de type int de 10 cases, tous à 42
+a: npt.NDArray[np.int_] = np.empty(10, int)
+a: npt.NDArray[np.int_] = np.zeros(10, int)
+a: npt.NDArray[np.int_] = np.full(10, 42, int)
 ```
 
 On peut utiliser tous les types Python en 2e arguements. Si omis, float est utilisé.
