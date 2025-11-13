@@ -28,6 +28,10 @@
    4. [Modules](notes/chapitre3/modules.md)
    5. [Tests unitaires](notes/chapitre3/tests_unitaires.md)
    6. [Listes](notes/chapitre3/list.md)
+   7. [Ensembles](notes/chapitre3/set.md)
+   8. [Tuples](notes/chapitre3/tuple.md)
+   9. Dictionnaire
+   10. Lire et écrire dans un fichier
 
 ## Ateliers
  * Chapitre 1
@@ -50,6 +54,8 @@
    * [Atelier 4 - Modules](ateliers/chapitre3/atelier4.md)
    * [Atelier 5 - Tests unitaires](ateliers/chapitre3/atelier5.md)
    * [Atelier 6 - Listes](ateliers/chapitre3/atelier6.md)
+   * [Atelier 7 - Ensembles](ateliers/chapitre3/atelier7.md)
+   * [Atelier 8 - Tuples](ateliers/chapitre3/atelier8.md)
 
 ## TP
  * [TP1](tp/tp1.md)
