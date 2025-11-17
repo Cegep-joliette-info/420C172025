@@ -51,11 +51,6 @@ Les 2 en même temps:
 with open('fichier.txt', 'r+') as file:
     print(file.read()) # Vous devez read avant, et juste 1 fois
     file.write("asdf") # Ajoute asdf au fichier
-
-# En mode "write", vide le fichier à l'ouverture mais garde le contenu en mémoire pour le read
-with open('fichier.txt', 'w+') as file:
-    print(file.read())
-    file.write("asdf")
 ```
 
 ## Vérifier que le fichier existe
