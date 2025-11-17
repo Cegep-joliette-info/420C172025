@@ -31,7 +31,11 @@
    7. [Ensembles](notes/chapitre3/set.md)
    8. [Tuples](notes/chapitre3/tuple.md)
    9. [Dictionnaire](notes/chapitre3/dict.md)
-   10. Lire et écrire dans un fichier
+   10. [Lire et écrire dans un fichier](notes/chapitre3/fichier.md)
+ * Chapitre 4 - Fouille et tri
+   1. [Fouille](notes/chapitre4/fouille.md)
+   2. Tri
+   3. Expression régulière
 
 ## Ateliers
  * Chapitre 1
@@ -57,6 +61,9 @@
    * [Atelier 7 - Ensembles](ateliers/chapitre3/atelier7.md)
    * [Atelier 8 - Tuples](ateliers/chapitre3/atelier8.md)
    * [Atelier 9 - Dictionnaires](ateliers/chapitre3/atelier9.md)
+   * [Atelier 10 - Fichier](ateliers/chapitre3/atelier10.md)
+ * Chapitre 4
+   * [Atelier 1 - Fouille](ateliers/chapitre4/atelier1.md)
 
 ## TP
  * [TP1](tp/tp1.md)
