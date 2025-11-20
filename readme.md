@@ -65,6 +65,9 @@
  * Chapitre 4
    * [Atelier 1 - Fouille](ateliers/chapitre4/atelier1.md)
    * [Atelier 2 - Tri](ateliers/chapitre4/atelier2.md)
+   * Atelier 3 - Expressions régulières (à venir)
+ * Ateliers supplémentaires
+   * [Atelier 1 - Typage](ateliers/supp/types.md)
 
 ## TP
  * [TP1](tp/tp1.md)
