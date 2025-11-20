@@ -34,7 +34,7 @@
    10. [Lire et écrire dans un fichier](notes/chapitre3/fichier.md)
  * Chapitre 4 - Fouille et tri
    1. [Fouille](notes/chapitre4/fouille.md)
-   2. Tri
+   2. [Tri](notes/chapitre4/tri.md)
    3. Expression régulière
 
 ## Ateliers
@@ -64,6 +64,7 @@
    * [Atelier 10 - Fichier](ateliers/chapitre3/atelier10.md)
  * Chapitre 4
    * [Atelier 1 - Fouille](ateliers/chapitre4/atelier1.md)
+   * [Atelier 2 - Tri](ateliers/chapitre4/atelier2.md)
 
 ## TP
  * [TP1](tp/tp1.md)
