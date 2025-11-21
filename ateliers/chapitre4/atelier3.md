@@ -1,5 +1,7 @@
 # Chapitre 4 - Atelier 3 - Expressions régulères
 
+Ressource supplémentaire: https://regexlearn.com/learn/regex101
+
 Faites tous les numéros suivants avec des expressions régulières.
 
 ## Numéro 1
