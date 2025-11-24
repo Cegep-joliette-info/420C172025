@@ -72,6 +72,7 @@
 ## TP
  * [TP1](tp/tp1.md)
  * [TP2](tp/tp2.md)
+ * [TP3](tp/tp3.md)
 
 ## Ressources
 

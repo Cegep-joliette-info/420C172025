@@ -1,0 +1,1450 @@
+[
+  {
+    "nom": "Afghanistan",
+    "capitale": "Kaboul",
+    "continent": "Asie",
+    "population": 42000000,
+    "superficieKm2": 652864,
+    "languesOfficielles": ["pachto", "dari"]
+  },
+  {
+    "nom": "Afrique du Sud",
+    "capitale": "Pretoria",
+    "continent": "Afrique",
+    "population": 60000000,
+    "superficieKm2": 1219090,
+    "languesOfficielles": ["afrikaans", "anglais", "zoulou", "xhosa", "sotho", "tswana", "swati", "venda", "tsonga", "ndébélé"]
+  },
+  {
+    "nom": "Algérie",
+    "capitale": "Alger",
+    "continent": "Afrique",
+    "population": 44700000,
+    "superficieKm2": 2381741,
+    "languesOfficielles": ["arabe", "amazigh"]
+  },
+  {
+    "nom": "Albanie",
+    "capitale": "Tirana",
+    "continent": "Europe",
+    "population": 2870000,
+    "superficieKm2": 28748,
+    "languesOfficielles": ["albanais"]
+  },
+  {
+    "nom": "Allemagne",
+    "capitale": "Berlin",
+    "continent": "Europe",
+    "population": 83000000,
+    "superficieKm2": 357386,
+    "languesOfficielles": ["allemand"]
+  },
+  {
+    "nom": "Angola",
+    "capitale": "Luanda",
+    "continent": "Afrique",
+    "population": 36000000,
+    "superficieKm2": 1246700,
+    "languesOfficielles": ["portugais"]
+  },
+  {
+    "nom": "Arabie saoudite",
+    "capitale": "Riyad",
+    "continent": "Asie",
+    "population": 36000000,
+    "superficieKm2": 2149690,
+    "languesOfficielles": ["arabe"]
+  },
+  {
+    "nom": "Argentine",
+    "capitale": "Buenos Aires",
+    "continent": "Amérique",
+    "population": 46000000,
+    "superficieKm2": 2780400,
+    "languesOfficielles": ["espagnol"]
+  },
+  {
+    "nom": "Arménie",
+    "capitale": "Erevan",
+    "continent": "Asie",
+    "population": 2900000,
+    "superficieKm2": 29743,
+    "languesOfficielles": ["arménien"]
+  },
+  {
+    "nom": "Azerbaïdjan",
+    "capitale": "Bakou",
+    "continent": "Asie",
+    "population": 10400000,
+    "superficieKm2": 86600,
+    "languesOfficielles": ["azéri"]
+  },
+  {
+    "nom": "Australie",
+    "capitale": "Canberra",
+    "continent": "Océanie",
+    "population": 26000000,
+    "superficieKm2": 7692024,
+    "languesOfficielles": ["anglais"]
+  },
+  {
+    "nom": "Autriche",
+    "capitale": "Vienne",
+    "continent": "Europe",
+    "population": 9000000,
+    "superficieKm2": 83879,
+    "languesOfficielles": ["allemand"]
+  },
+  {
+    "nom": "Bahamas",
+    "capitale": "Nassau",
+    "continent": "Amérique",
+    "population": 400000,
+    "superficieKm2": 13943,
+    "languesOfficielles": ["anglais"]
+  },
+  {
+    "nom": "Bahreïn",
+    "capitale": "Manama",
+    "continent": "Asie",
+    "population": 1500000,
+    "superficieKm2": 765,
+    "languesOfficielles": ["arabe"]
+  },
+  {
+    "nom": "Barbade",
+    "capitale": "Bridgetown",
+    "continent": "Amérique",
+    "population": 280000,
+    "superficieKm2": 430,
+    "languesOfficielles": ["anglais"]
+  },
+  {
+    "nom": "Belgique",
+    "capitale": "Bruxelles",
+    "continent": "Europe",
+    "population": 11500000,
+    "superficieKm2": 30528,
+    "languesOfficielles": ["français", "néerlandais", "allemand"]
+  },
+  {
+    "nom": "Belize",
+    "capitale": "Belmopan",
+    "continent": "Amérique",
+    "population": 400000,
+    "superficieKm2": 22966,
+    "languesOfficielles": ["anglais"]
+  },
+  {
+    "nom": "Bénin",
+    "capitale": "Porto-Novo",
+    "continent": "Afrique",
+    "population": 13000000,
+    "superficieKm2": 112622,
+    "languesOfficielles": ["français"]
+  },
+  {
+    "nom": "Biélorussie",
+    "capitale": "Minsk",
+    "continent": "Europe",
+    "population": 9400000,
+    "superficieKm2": 207600,
+    "languesOfficielles": ["biélorusse", "russe"]
+  },
+  {
+    "nom": "Bhoutan",
+    "capitale": "Thimphou",
+    "continent": "Asie",
+    "population": 800000,
+    "superficieKm2": 38394,
+    "languesOfficielles": ["dzongkha"]
+  },
+  {
+    "nom": "Bosnie-Herzégovine",
+    "capitale": "Sarajevo",
+    "continent": "Europe",
+    "population": 3300000,
+    "superficieKm2": 51197,
+    "languesOfficielles": ["bosnien", "serbe", "croate"]
+  },
+  {
+    "nom": "Botswana",
+    "capitale": "Gaborone",
+    "continent": "Afrique",
+    "population": 2600000,
+    "superficieKm2": 581730,
+    "languesOfficielles": ["anglais", "tswana"]
+  },
+  {
+    "nom": "Brésil",
+    "capitale": "Brasília",
+    "continent": "Amérique",
+    "population": 216000000,
+    "superficieKm2": 8515767,
+    "languesOfficielles": ["portugais"]
+  },
+  {
+    "nom": "Brunei",
+    "capitale": "Bandar Seri Begawan",
+    "continent": "Asie",
+    "population": 450000,
+    "superficieKm2": 5765,
+    "languesOfficielles": ["malais"]
+  },
+  {
+    "nom": "Bulgarie",
+    "capitale": "Sofia",
+    "continent": "Europe",
+    "population": 7000000,
+    "superficieKm2": 110994,
+    "languesOfficielles": ["bulgare"]
+  },
+  {
+    "nom": "Burkina Faso",
+    "capitale": "Ouagadougou",
+    "continent": "Afrique",
+    "population": 22000000,
+    "superficieKm2": 272967,
+    "languesOfficielles": ["français"]
+  },
+  {
+    "nom": "Burundi",
+    "capitale": "Gitega",
+    "continent": "Afrique",
+    "population": 13000000,
+    "superficieKm2": 27834,
+    "languesOfficielles": ["français", "kirundi", "anglais"]
+  },
+  {
+    "nom": "Cambodge",
+    "capitale": "Phnom Penh",
+    "continent": "Asie",
+    "population": 17000000,
+    "superficieKm2": 181035,
+    "languesOfficielles": ["khmer"]
+  },
+  {
+    "nom": "Cameroun",
+    "capitale": "Yaoundé",
+    "continent": "Afrique",
+    "population": 28000000,
+    "superficieKm2": 475442,
+    "languesOfficielles": ["français", "anglais"]
+  },
+  {
+    "nom": "Canada",
+    "capitale": "Ottawa",
+    "continent": "Amérique",
+    "population": 39000000,
+    "superficieKm2": 9984670,
+    "languesOfficielles": ["anglais", "français"]
+  },
+  {
+    "nom": "Cap-Vert",
+    "capitale": "Praia",
+    "continent": "Afrique",
+    "population": 600000,
+    "superficieKm2": 4033,
+    "languesOfficielles": ["portugais"]
+  },
+  {
+    "nom": "Chili",
+    "capitale": "Santiago",
+    "continent": "Amérique",
+    "population": 20000000,
+    "superficieKm2": 756102,
+    "languesOfficielles": ["espagnol"]
+  },
+  {
+    "nom": "Chine",
+    "capitale": "Pékin",
+    "continent": "Asie",
+    "population": 1412000000,
+    "superficieKm2": 9596961,
+    "languesOfficielles": ["chinois (mandarin)"]
+  },
+  {
+    "nom": "Chypre",
+    "capitale": "Nicosie",
+    "continent": "Asie",
+    "population": 1200000,
+    "superficieKm2": 9251,
+    "languesOfficielles": ["grec", "turc"]
+  },
+  {
+    "nom": "Colombie",
+    "capitale": "Bogotá",
+    "continent": "Amérique",
+    "population": 52000000,
+    "superficieKm2": 1141748,
+    "languesOfficielles": ["espagnol"]
+  },
+  {
+    "nom": "Comores",
+    "capitale": "Moroni",
+    "continent": "Afrique",
+    "population": 900000,
+    "superficieKm2": 2235,
+    "languesOfficielles": ["français", "arabe", "comorien"]
+  },
+  {
+    "nom": "Corée du Nord",
+    "capitale": "Pyongyang",
+    "continent": "Asie",
+    "population": 26000000,
+    "superficieKm2": 120538,
+    "languesOfficielles": ["coréen"]
+  },
+  {
+    "nom": "Corée du Sud",
+    "capitale": "Séoul",
+    "continent": "Asie",
+    "population": 52000000,
+    "superficieKm2": 100210,
+    "languesOfficielles": ["coréen"]
+  },
+  {
+    "nom": "Costa Rica",
+    "capitale": "San José",
+    "continent": "Amérique",
+    "population": 5200000,
+    "superficieKm2": 51100,
+    "languesOfficielles": ["espagnol"]
+  },
+  {
+    "nom": "Côte d'Ivoire",
+    "capitale": "Yamoussoukro",
+    "continent": "Afrique",
+    "population": 28000000,
+    "superficieKm2": 322463,
+    "languesOfficielles": ["français"]
+  },
+  {
+    "nom": "Croatie",
+    "capitale": "Zagreb",
+    "continent": "Europe",
+    "population": 4100000,
+    "superficieKm2": 56594,
+    "languesOfficielles": ["croate"]
+  },
+  {
+    "nom": "Cuba",
+    "capitale": "La Havane",
+    "continent": "Amérique",
+    "population": 11300000,
+    "superficieKm2": 109884,
+    "languesOfficielles": ["espagnol"]
+  },
+  {
+    "nom": "Danemark",
+    "capitale": "Copenhague",
+    "continent": "Europe",
+    "population": 5830000,
+    "superficieKm2": 42933,
+    "languesOfficielles": ["danois"]
+  },
+  {
+    "nom": "Djibouti",
+    "capitale": "Djibouti",
+    "continent": "Afrique",
+    "population": 1100000,
+    "superficieKm2": 23200,
+    "languesOfficielles": ["français", "arabe"]
+  },
+  {
+    "nom": "Dominique",
+    "capitale": "Roseau",
+    "continent": "Amérique",
+    "population": 72000,
+    "superficieKm2": 751,
+    "languesOfficielles": ["anglais"]
+  },
+  {
+    "nom": "Égypte",
+    "capitale": "Le Caire",
+    "continent": "Afrique",
+    "population": 109000000,
+    "superficieKm2": 1002450,
+    "languesOfficielles": ["arabe"]
+  },
+  {
+    "nom": "Émirats arabes unis",
+    "capitale": "Abou Dabi",
+    "continent": "Asie",
+    "population": 9800000,
+    "superficieKm2": 83600,
+    "languesOfficielles": ["arabe"]
+  },
+  {
+    "nom": "Équateur",
+    "capitale": "Quito",
+    "continent": "Amérique",
+    "population": 18000000,
+    "superficieKm2": 256370,
+    "languesOfficielles": ["espagnol"]
+  },
+  {
+    "nom": "Érythrée",
+    "capitale": "Asmara",
+    "continent": "Afrique",
+    "population": 3600000,
+    "superficieKm2": 117600,
+    "languesOfficielles": ["tigrigna", "arabe", "anglais"]
+  },
+  {
+    "nom": "Espagne",
+    "capitale": "Madrid",
+    "continent": "Europe",
+    "population": 0,
+    "superficieKm2": 0,
+    "languesOfficielles": []
+  },
+  {
+    "nom": "Estonie",
+    "capitale": "Tallinn",
+    "continent": "Europe",
+    "population": 1330000,
+    "superficieKm2": 45227,
+    "languesOfficielles": ["estonien"]
+  },
+  {
+    "nom": "Eswatini",
+    "capitale": "Mbabane",
+    "continent": "Afrique",
+    "population": 1200000,
+    "superficieKm2": 17364,
+    "languesOfficielles": ["anglais", "swati"]
+  },
+  {
+    "nom": "Éthiopie",
+    "capitale": "Addis-Abeba",
+    "continent": "Afrique",
+    "population": 126000000,
+    "superficieKm2": 1104300,
+    "languesOfficielles": ["amharique"]
+  },
+  {
+    "nom": "Fidji",
+    "capitale": "Suva",
+    "continent": "Océanie",
+    "population": 900000,
+    "superficieKm2": 18274,
+    "languesOfficielles": ["anglais", "fidjien", "hindi"]
+  },
+  {
+    "nom": "Finlande",
+    "capitale": "Helsinki",
+    "continent": "Europe",
+    "population": 5530000,
+    "superficieKm2": 338424,
+    "languesOfficielles": ["finnois", "suédois"]
+  },
+  {
+    "nom": "France",
+    "capitale": "Paris",
+    "continent": "Europe",
+    "population": 68000000,
+    "superficieKm2": 551695,
+    "languesOfficielles": ["français"]
+  },
+  {
+    "nom": "Gabon",
+    "capitale": "Libreville",
+    "continent": "Afrique",
+    "population": 2400000,
+    "superficieKm2": 267668,
+    "languesOfficielles": ["français"]
+  },
+  {
+    "nom": "Gambie",
+    "capitale": "Banjul",
+    "continent": "Afrique",
+    "population": 2700000,
+    "superficieKm2": 11295,
+    "languesOfficielles": ["anglais"]
+  },
+  {
+    "nom": "Géorgie",
+    "capitale": "Tbilissi",
+    "continent": "Asie",
+    "population": 3700000,
+    "superficieKm2": 69700,
+    "languesOfficielles": ["géorgien"]
+  },
+  {
+    "nom": "Ghana",
+    "capitale": "Accra",
+    "continent": "Afrique",
+    "population": 33000000,
+    "superficieKm2": 238533,
+    "languesOfficielles": ["anglais"]
+  },
+  {
+    "nom": "Grenade",
+    "capitale": "Saint-Georges",
+    "continent": "Amérique",
+    "population": 125000,
+    "superficieKm2": 344,
+    "languesOfficielles": ["anglais"]
+  },
+  {
+    "nom": "Grèce",
+    "capitale": "Athènes",
+    "continent": "Europe",
+    "population": 10700000,
+    "superficieKm2": 131957,
+    "languesOfficielles": ["grec"]
+  },
+  {
+    "nom": "Guatemala",
+    "capitale": "Guatemala",
+    "continent": "Amérique",
+    "population": 18000000,
+    "superficieKm2": 108889,
+    "languesOfficielles": ["espagnol"]
+  },
+  {
+    "nom": "Guinée",
+    "capitale": "Conakry",
+    "continent": "Afrique",
+    "population": 14000000,
+    "superficieKm2": 245857,
+    "languesOfficielles": ["français"]
+  },
+  {
+    "nom": "Guinée-Bissau",
+    "capitale": "Bissau",
+    "continent": "Afrique",
+    "population": 2100000,
+    "superficieKm2": 36125,
+    "languesOfficielles": ["portugais"]
+  },
+  {
+    "nom": "Guinée équatoriale",
+    "capitale": "Malabo",
+    "continent": "Afrique",
+    "population": 1600000,
+    "superficieKm2": 28051,
+    "languesOfficielles": ["espagnol", "français", "portugais"]
+  },
+  {
+    "nom": "Guyana",
+    "capitale": "Georgetown",
+    "continent": "Amérique",
+    "population": 800000,
+    "superficieKm2": 214969,
+    "languesOfficielles": ["anglais"]
+  },
+  {
+    "nom": "Haïti",
+    "capitale": "Port-au-Prince",
+    "continent": "Amérique",
+    "population": 11500000,
+    "superficieKm2": 27750,
+    "languesOfficielles": ["français", "créole haïtien"]
+  },
+  {
+    "nom": "Honduras",
+    "capitale": "Tegucigalpa",
+    "continent": "Amérique",
+    "population": 11000000,
+    "superficieKm2": 112492,
+    "languesOfficielles": ["espagnol"]
+  },
+  {
+    "nom": "Hongrie",
+    "capitale": "Budapest",
+    "continent": "Europe",
+    "population": 9700000,
+    "superficieKm2": 93028,
+    "languesOfficielles": ["hongrois"]
+  },
+  {
+    "nom": "Inde",
+    "capitale": "New Delhi",
+    "continent": "Asie",
+    "population": 1428000000,
+    "superficieKm2": 3287263,
+    "languesOfficielles": ["hindi", "anglais"]
+  },
+  {
+    "nom": "Indonésie",
+    "capitale": "Jakarta",
+    "continent": "Asie",
+    "population": 277000000,
+    "superficieKm2": 1904569,
+    "languesOfficielles": ["indonésien"]
+  },
+  {
+    "nom": "Irak",
+    "capitale": "Bagdad",
+    "continent": "Asie",
+    "population": 44000000,
+    "superficieKm2": 438317,
+    "languesOfficielles": ["arabe", "kurde"]
+  },
+  {
+    "nom": "Iran",
+    "capitale": "Téhéran",
+    "continent": "Asie",
+    "population": 89000000,
+    "superficieKm2": 1648195,
+    "languesOfficielles": ["persan"]
+  },
+  {
+    "nom": "Irlande",
+    "capitale": "Dublin",
+    "continent": "Europe",
+    "population": 5000000,
+    "superficieKm2": 70273,
+    "languesOfficielles": ["irlandais", "anglais"]
+  },
+  {
+    "nom": "Islande",
+    "capitale": "Reykjavík",
+    "continent": "Europe",
+    "population": 370000,
+    "superficieKm2": 103000,
+    "languesOfficielles": ["islandais"]
+  },
+  {
+    "nom": "Israël",
+    "capitale": "Jérusalem",
+    "continent": "Asie",
+    "population": 9600000,
+    "superficieKm2": 22072,
+    "languesOfficielles": ["hébreu", "arabe"]
+  },
+  {
+    "nom": "Italie",
+    "capitale": "Rome",
+    "continent": "Europe",
+    "population": 59000000,
+    "superficieKm2": 301340,
+    "languesOfficielles": ["italien"]
+  },
+  {
+    "nom": "Jamaïque",
+    "capitale": "Kingston",
+    "continent": "Amérique",
+    "population": 3000000,
+    "superficieKm2": 10991,
+    "languesOfficielles": ["anglais"]
+  },
+  {
+    "nom": "Japon",
+    "capitale": "Tokyo",
+    "continent": "Asie",
+    "population": 125000000,
+    "superficieKm2": 377975,
+    "languesOfficielles": ["japonais"]
+  },
+  {
+    "nom": "Jordanie",
+    "capitale": "Amman",
+    "continent": "Asie",
+    "population": 11000000,
+    "superficieKm2": 89342,
+    "languesOfficielles": ["arabe"]
+  },
+  {
+    "nom": "Kazakhstan",
+    "capitale": "Astana",
+    "continent": "Asie",
+    "population": 20000000,
+    "superficieKm2": 2724900,
+    "languesOfficielles": ["kazakh", "russe"]
+  },
+  {
+    "nom": "Kenya",
+    "capitale": "Nairobi",
+    "continent": "Afrique",
+    "population": 55000000,
+    "superficieKm2": 580367,
+    "languesOfficielles": ["anglais", "swahili"]
+  },
+  {
+    "nom": "Kirghizistan",
+    "capitale": "Bichkek",
+    "continent": "Asie",
+    "population": 7000000,
+    "superficieKm2": 199951,
+    "languesOfficielles": ["kirghize", "russe"]
+  },
+  {
+    "nom": "Kiribati",
+    "capitale": "Tarawa",
+    "continent": "Océanie",
+    "population": 120000,
+    "superficieKm2": 811,
+    "languesOfficielles": ["anglais", "gilbertin"]
+  },
+  {
+    "nom": "Koweït",
+    "capitale": "Koweït",
+    "continent": "Asie",
+    "population": 4300000,
+    "superficieKm2": 17818,
+    "languesOfficielles": ["arabe"]
+  },
+  {
+    "nom": "Laos",
+    "capitale": "Vientiane",
+    "continent": "Asie",
+    "population": 7600000,
+    "superficieKm2": 236800,
+    "languesOfficielles": ["laotien"]
+  },
+  {
+    "nom": "Lesotho",
+    "capitale": "Maseru",
+    "continent": "Afrique",
+    "population": 2300000,
+    "superficieKm2": 30355,
+    "languesOfficielles": ["anglais", "sesotho"]
+  },
+  {
+    "nom": "Lettonie",
+    "capitale": "Riga",
+    "continent": "Europe",
+    "population": 1900000,
+    "superficieKm2": 64559,
+    "languesOfficielles": ["letton"]
+  },
+  {
+    "nom": "Liban",
+    "capitale": "Beyrouth",
+    "continent": "Asie",
+    "population": 5500000,
+    "superficieKm2": 10452,
+    "languesOfficielles": ["arabe"]
+  },
+  {
+    "nom": "Libéria",
+    "capitale": "Monrovia",
+    "continent": "Afrique",
+    "population": 5300000,
+    "superficieKm2": 111369,
+    "languesOfficielles": ["anglais"]
+  },
+  {
+    "nom": "Libye",
+    "capitale": "Tripoli",
+    "continent": "Afrique",
+    "population": 7000000,
+    "superficieKm2": 1759540,
+    "languesOfficielles": ["arabe"]
+  },
+  {
+    "nom": "Lituanie",
+    "capitale": "Vilnius",
+    "continent": "Europe",
+    "population": 2800000,
+    "superficieKm2": 65300,
+    "languesOfficielles": ["lituanien"]
+  },
+  {
+    "nom": "Luxembourg",
+    "capitale": "Luxembourg",
+    "continent": "Europe",
+    "population": 630000,
+    "superficieKm2": 2586,
+    "languesOfficielles": ["luxembourgeois", "français", "allemand"]
+  },
+  {
+    "nom": "Macédoine du Nord",
+    "capitale": "Skopje",
+    "continent": "Europe",
+    "population": 2080000,
+    "superficieKm2": 25713,
+    "languesOfficielles": ["macédonien", "albanais"]
+  },
+  {
+    "nom": "Madagascar",
+    "capitale": "Antananarivo",
+    "continent": "Afrique",
+    "population": 29000000,
+    "superficieKm2": 587041,
+    "languesOfficielles": ["malgache", "français"]
+  },
+  {
+    "nom": "Malaisie",
+    "capitale": "Kuala Lumpur",
+    "continent": "Asie",
+    "population": 34000000,
+    "superficieKm2": 330803,
+    "languesOfficielles": ["malais"]
+  },
+  {
+    "nom": "Malawi",
+    "capitale": "Lilongwe",
+    "continent": "Afrique",
+    "population": 21000000,
+    "superficieKm2": 118484,
+    "languesOfficielles": ["anglais", "chichewa"]
+  },
+  {
+    "nom": "Maldives",
+    "capitale": "Malé",
+    "continent": "Asie",
+    "population": 520000,
+    "superficieKm2": 298,
+    "languesOfficielles": ["maldivien"]
+  },
+  {
+    "nom": "Malte",
+    "capitale": "La Valette",
+    "continent": "Europe",
+    "population": 520000,
+    "superficieKm2": 316,
+    "languesOfficielles": ["maltais", "anglais"]
+  },
+  {
+    "nom": "Mali",
+    "capitale": "Bamako",
+    "continent": "Afrique",
+    "population": 22000000,
+    "superficieKm2": 1240192,
+    "languesOfficielles": ["français"]
+  },
+  {
+    "nom": "Maurice",
+    "capitale": "Port-Louis",
+    "continent": "Afrique",
+    "population": 1300000,
+    "superficieKm2": 2040,
+    "languesOfficielles": ["anglais"]
+  },
+  {
+    "nom": "Mauritanie",
+    "capitale": "Nouakchott",
+    "continent": "Afrique",
+    "population": 4800000,
+    "superficieKm2": 1030700,
+    "languesOfficielles": ["arabe"]
+  },
+  {
+    "nom": "Mexique",
+    "capitale": "Mexico",
+    "continent": "Amérique",
+    "population": 128000000,
+    "superficieKm2": 1964375,
+    "languesOfficielles": ["espagnol"]
+  },
+  {
+    "nom": "Micronésie",
+    "capitale": "Palikir",
+    "continent": "Océanie",
+    "population": 115000,
+    "superficieKm2": 702,
+    "languesOfficielles": ["anglais"]
+  },
+  {
+    "nom": "Moldavie",
+    "capitale": "Chișinău",
+    "continent": "Europe",
+    "population": 2600000,
+    "superficieKm2": 33846,
+    "languesOfficielles": ["roumain"]
+  },
+  {
+    "nom": "Monaco",
+    "capitale": "Monaco",
+    "continent": "Europe",
+    "population": 39000,
+    "superficieKm2": 2,
+    "languesOfficielles": ["français"]
+  },
+  {
+    "nom": "Mongolie",
+    "capitale": "Oulan-Bator",
+    "continent": "Asie",
+    "population": 3400000,
+    "superficieKm2": 1564116,
+    "languesOfficielles": ["mongol"]
+  },
+  {
+    "nom": "Monténégro",
+    "capitale": "Podgorica",
+    "continent": "Europe",
+    "population": 620000,
+    "superficieKm2": 13812,
+    "languesOfficielles": ["monténégrin"]
+  },
+  {
+    "nom": "Mozambique",
+    "capitale": "Maputo",
+    "continent": "Afrique",
+    "population": 33000000,
+    "superficieKm2": 801590,
+    "languesOfficielles": ["portugais"]
+  },
+  {
+    "nom": "Namibie",
+    "capitale": "Windhoek",
+    "continent": "Afrique",
+    "population": 2600000,
+    "superficieKm2": 825615,
+    "languesOfficielles": ["anglais"]
+  },
+  {
+    "nom": "Nauru",
+    "capitale": "Yaren",
+    "continent": "Océanie",
+    "population": 12000,
+    "superficieKm2": 21,
+    "languesOfficielles": ["nauruan", "anglais"]
+  },
+  {
+    "nom": "Népal",
+    "capitale": "Katmandou",
+    "continent": "Asie",
+    "population": 30000000,
+    "superficieKm2": 147516,
+    "languesOfficielles": ["népalais"]
+  },
+  {
+    "nom": "Nicaragua",
+    "capitale": "Managua",
+    "continent": "Amérique",
+    "population": 7000000,
+    "superficieKm2": 130373,
+    "languesOfficielles": ["espagnol"]
+  },
+  {
+    "nom": "Niger",
+    "capitale": "Niamey",
+    "continent": "Afrique",
+    "population": 26000000,
+    "superficieKm2": 1267000,
+    "languesOfficielles": ["français"]
+  },
+  {
+    "nom": "Nigeria",
+    "capitale": "Abuja",
+    "continent": "Afrique",
+    "population": 223000000,
+    "superficieKm2": 923768,
+    "languesOfficielles": ["anglais"]
+  },
+  {
+    "nom": "Norvège",
+    "capitale": "Oslo",
+    "continent": "Europe",
+    "population": 5400000,
+    "superficieKm2": 385207,
+    "languesOfficielles": ["norvégien"]
+  },
+  {
+    "nom": "Nouvelle-Zélande",
+    "capitale": "Wellington",
+    "continent": "Océanie",
+    "population": 5100000,
+    "superficieKm2": 268021,
+    "languesOfficielles": ["anglais", "maori", "langue des signes néo-zélandaise"]
+  },
+  {
+    "nom": "Oman",
+    "capitale": "Mascate",
+    "continent": "Asie",
+    "population": 4600000,
+    "superficieKm2": 309500,
+    "languesOfficielles": ["arabe"]
+  },
+  {
+    "nom": "Ouganda",
+    "capitale": "Kampala",
+    "continent": "Afrique",
+    "population": 48000000,
+    "superficieKm2": 241038,
+    "languesOfficielles": ["anglais", "swahili"]
+  },
+  {
+    "nom": "Ouzbékistan",
+    "capitale": "Tachkent",
+    "continent": "Asie",
+    "population": 36000000,
+    "superficieKm2": 447400,
+    "languesOfficielles": ["ouzbek"]
+  },
+  {
+    "nom": "Pakistan",
+    "capitale": "Islamabad",
+    "continent": "Asie",
+    "population": 240000000,
+    "superficieKm2": 881912,
+    "languesOfficielles": ["ourdou", "anglais"]
+  },
+  {
+    "nom": "Palaos",
+    "capitale": "Ngerulmud",
+    "continent": "Océanie",
+    "population": 18000,
+    "superficieKm2": 459,
+    "languesOfficielles": ["paluan", "anglais"]
+  },
+  {
+    "nom": "Panama",
+    "capitale": "Panama",
+    "continent": "Amérique",
+    "population": 4500000,
+    "superficieKm2": 75417,
+    "languesOfficielles": ["espagnol"]
+  },
+  {
+    "nom": "Papouasie-Nouvelle-Guinée",
+    "capitale": "Port Moresby",
+    "continent": "Océanie",
+    "population": 10000000,
+    "superficieKm2": 462840,
+    "languesOfficielles": ["anglais", "tok pisin", "hiri motu"]
+  },
+  {
+    "nom": "Paraguay",
+    "capitale": "Asuncion",
+    "continent": "Amérique",
+    "population": 7000000,
+    "superficieKm2": 406752,
+    "languesOfficielles": ["espagnol", "guarani"]
+  },
+  {
+    "nom": "Pays-Bas",
+    "capitale": "Amsterdam",
+    "continent": "Europe",
+    "population": 17400000,
+    "superficieKm2": 41543,
+    "languesOfficielles": ["néerlandais"]
+  },
+  {
+    "nom": "Pérou",
+    "capitale": "Lima",
+    "continent": "Amérique",
+    "population": 34000000,
+    "superficieKm2": 1285216,
+    "languesOfficielles": ["espagnol", "quechua", "aymara"]
+  },
+  {
+    "nom": "Philippines",
+    "capitale": "Manille",
+    "continent": "Asie",
+    "population": 117000000,
+    "superficieKm2": 300000,
+    "languesOfficielles": ["filipino", "anglais"]
+  },
+  {
+    "nom": "Pologne",
+    "capitale": "Varsovie",
+    "continent": "Europe",
+    "population": 38000000,
+    "superficieKm2": 312696,
+    "languesOfficielles": ["polonais"]
+  },
+  {
+    "nom": "Portugal",
+    "capitale": "Lisbonne",
+    "continent": "Europe",
+    "population": 10200000,
+    "superficieKm2": 92212,
+    "languesOfficielles": ["portugais"]
+  },
+  {
+    "nom": "Qatar",
+    "capitale": "Doha",
+    "continent": "Asie",
+    "population": 3000000,
+    "superficieKm2": 11586,
+    "languesOfficielles": ["arabe"]
+  },
+  {
+    "nom": "République centrafricaine",
+    "capitale": "Bangui",
+    "continent": "Afrique",
+    "population": 5600000,
+    "superficieKm2": 622984,
+    "languesOfficielles": ["français", "sango"]
+  },
+  {
+    "nom": "République démocratique du Congo",
+    "capitale": "Kinshasa",
+    "continent": "Afrique",
+    "population": 99000000,
+    "superficieKm2": 2344858,
+    "languesOfficielles": ["français"]
+  },
+  {
+    "nom": "République dominicaine",
+    "capitale": "Saint-Domingue",
+    "continent": "Amérique",
+    "population": 11000000,
+    "superficieKm2": 48671,
+    "languesOfficielles": ["espagnol"]
+  },
+  {
+    "nom": "République du Congo",
+    "capitale": "Brazzaville",
+    "continent": "Afrique",
+    "population": 6000000,
+    "superficieKm2": 342000,
+    "languesOfficielles": ["français"]
+  },
+  {
+    "nom": "République tchèque",
+    "capitale": "Prague",
+    "continent": "Europe",
+    "population": 10700000,
+    "superficieKm2": 78865,
+    "languesOfficielles": ["tchèque"]
+  },
+  {
+    "nom": "Roumanie",
+    "capitale": "Bucarest",
+    "continent": "Europe",
+    "population": 19500000,
+    "superficieKm2": 238397,
+    "languesOfficielles": ["roumain"]
+  },
+  {
+    "nom": "Royaume-Uni",
+    "capitale": "Londres",
+    "continent": "Europe",
+    "population": 67000000,
+    "superficieKm2": 243610,
+    "languesOfficielles": ["anglais"]
+  },
+  {
+    "nom": "Russie",
+    "capitale": "Moscou",
+    "continent": "Europe",
+    "population": 146000000,
+    "superficieKm2": 17098246,
+    "languesOfficielles": ["russe"]
+  },
+  {
+    "nom": "Rwanda",
+    "capitale": "Kigali",
+    "continent": "Afrique",
+    "population": 14000000,
+    "superficieKm2": 26338,
+    "languesOfficielles": ["français", "anglais", "kinyarwanda"]
+  },
+  {
+    "nom": "Sao Tomé-et-Principe",
+    "capitale": "São Tomé",
+    "continent": "Afrique",
+    "population": 230000,
+    "superficieKm2": 964,
+    "languesOfficielles": ["portugais"]
+  },
+  {
+    "nom": "Saint-Christophe-et-Niévès",
+    "capitale": "Basseterre",
+    "continent": "Amérique",
+    "population": 54000,
+    "superficieKm2": 261,
+    "languesOfficielles": ["anglais"]
+  },
+  {
+    "nom": "Saint-Marin",
+    "capitale": "Saint-Marin",
+    "continent": "Europe",
+    "population": 34000,
+    "superficieKm2": 61,
+    "languesOfficielles": ["italien"]
+  },
+  {
+    "nom": "Saint-Siège",
+    "capitale": "Vatican",
+    "continent": "Europe",
+    "population": 800,
+    "superficieKm2": 0.44,
+    "languesOfficielles": ["latin", "italien"]
+  },
+  {
+    "nom": "Sainte-Lucie",
+    "capitale": "Castries",
+    "continent": "Amérique",
+    "population": 180000,
+    "superficieKm2": 616,
+    "languesOfficielles": ["anglais"]
+  },
+  {
+    "nom": "Saint-Vincent-et-les-Grenadines",
+    "capitale": "Kingstown",
+    "continent": "Amérique",
+    "population": 110000,
+    "superficieKm2": 389,
+    "languesOfficielles": ["anglais"]
+  },
+  {
+    "nom": "Samoa",
+    "capitale": "Apia",
+    "continent": "Océanie",
+    "population": 220000,
+    "superficieKm2": 2842,
+    "languesOfficielles": ["samoan", "anglais"]
+  },
+  {
+    "nom": "Sénégal",
+    "capitale": "Dakar",
+    "continent": "Afrique",
+    "population": 18000000,
+    "superficieKm2": 196722,
+    "languesOfficielles": ["français"]
+  },
+  {
+    "nom": "Serbie",
+    "capitale": "Belgrade",
+    "continent": "Europe",
+    "population": 6900000,
+    "superficieKm2": 88361,
+    "languesOfficielles": ["serbe"]
+  },
+  {
+    "nom": "Seychelles",
+    "capitale": "Victoria",
+    "continent": "Afrique",
+    "population": 100000,
+    "superficieKm2": 455,
+    "languesOfficielles": ["français", "anglais", "créole seychellois"]
+  },
+  {
+    "nom": "Sierra Leone",
+    "capitale": "Freetown",
+    "continent": "Afrique",
+    "population": 8500000,
+    "superficieKm2": 71740,
+    "languesOfficielles": ["anglais"]
+  },
+  {
+    "nom": "Singapour",
+    "capitale": "Singapour",
+    "continent": "Asie",
+    "population": 5900000,
+    "superficieKm2": 728,
+    "languesOfficielles": ["malais", "anglais", "mandarin", "tamoul"]
+  },
+  {
+    "nom": "Slovaquie",
+    "capitale": "Bratislava",
+    "continent": "Europe",
+    "population": 5450000,
+    "superficieKm2": 49035,
+    "languesOfficielles": ["slovaque"]
+  },
+  {
+    "nom": "Slovénie",
+    "capitale": "Ljubljana",
+    "continent": "Europe",
+    "population": 2100000,
+    "superficieKm2": 20273,
+    "languesOfficielles": ["slovène"]
+  },
+  {
+    "nom": "Somalie",
+    "capitale": "Mogadiscio",
+    "continent": "Afrique",
+    "population": 18000000,
+    "superficieKm2": 637657,
+    "languesOfficielles": ["somali", "arabe"]
+  },
+  {
+    "nom": "Soudan",
+    "capitale": "Khartoum",
+    "continent": "Afrique",
+    "population": 48000000,
+    "superficieKm2": 1861484,
+    "languesOfficielles": ["arabe", "anglais"]
+  },
+  {
+    "nom": "Soudan du Sud",
+    "capitale": "Djouba",
+    "continent": "Afrique",
+    "population": 11000000,
+    "superficieKm2": 619745,
+    "languesOfficielles": ["anglais"]
+  },
+  {
+    "nom": "Sri Lanka",
+    "capitale": "Sri Jayawardenapura Kotte",
+    "continent": "Asie",
+    "population": 22000000,
+    "superficieKm2": 65610,
+    "languesOfficielles": ["cinghalais", "tamoul"]
+  },
+  {
+    "nom": "Suède",
+    "capitale": "Stockholm",
+    "continent": "Europe",
+    "population": 10300000,
+    "superficieKm2": 450295,
+    "languesOfficielles": ["suédois"]
+  },
+  {
+    "nom": "Suisse",
+    "capitale": "Berne",
+    "continent": "Europe",
+    "population": 8600000,
+    "superficieKm2": 41285,
+    "languesOfficielles": ["allemand", "français", "italien", "romanche"]
+  },
+  {
+    "nom": "Suriname",
+    "capitale": "Paramaribo",
+    "continent": "Amérique",
+    "population": 600000,
+    "superficieKm2": 163820,
+    "languesOfficielles": ["néerlandais"]
+  },
+  {
+    "nom": "Taïwan",
+    "capitale": "Taipei",
+    "continent": "Asie",
+    "population": 23500000,
+    "superficieKm2": 36197,
+    "languesOfficielles": ["chinois (mandarin)"]
+  },
+  {
+    "nom": "Tadjikistan",
+    "capitale": "Douchanbé",
+    "continent": "Asie",
+    "population": 10000000,
+    "superficieKm2": 143100,
+    "languesOfficielles": ["tadjik"]
+  },
+  {
+    "nom": "Tanzanie",
+    "capitale": "Dodoma",
+    "continent": "Afrique",
+    "population": 67000000,
+    "superficieKm2": 945087,
+    "languesOfficielles": ["swahili", "anglais"]
+  },
+  {
+    "nom": "Thaïlande",
+    "capitale": "Bangkok",
+    "continent": "Asie",
+    "population": 72000000,
+    "superficieKm2": 513120,
+    "languesOfficielles": ["thaï"]
+  },
+  {
+    "nom": "Timor oriental",
+    "capitale": "Dili",
+    "continent": "Asie",
+    "population": 1400000,
+    "superficieKm2": 14874,
+    "languesOfficielles": ["tétoum", "portugais"]
+  },
+  {
+    "nom": "Togo",
+    "capitale": "Lomé",
+    "continent": "Afrique",
+    "population": 8800000,
+    "superficieKm2": 56785,
+    "languesOfficielles": ["français"]
+  },
+  {
+    "nom": "Tonga",
+    "capitale": "Nuku'alofa",
+    "continent": "Océanie",
+    "population": 105000,
+    "superficieKm2": 747,
+    "languesOfficielles": ["tongien", "anglais"]
+  },
+  {
+    "nom": "Tunisie",
+    "capitale": "Tunis",
+    "continent": "Afrique",
+    "population": 12000000,
+    "superficieKm2": 163610,
+    "languesOfficielles": ["arabe"]
+  },
+  {
+    "nom": "Turkménistan",
+    "capitale": "Achgabat",
+    "continent": "Asie",
+    "population": 7000000,
+    "superficieKm2": 488100,
+    "languesOfficielles": ["turkmène"]
+  },
+  {
+    "nom": "Turquie",
+    "capitale": "Ankara",
+    "continent": "Asie",
+    "population": 85000000,
+    "superficieKm2": 783562,
+    "languesOfficielles": ["turc"]
+  },
+  {
+    "nom": "Tuvalu",
+    "capitale": "Funafuti",
+    "continent": "Océanie",
+    "population": 12000,
+    "superficieKm2": 26,
+    "languesOfficielles": ["tuvaluan", "anglais"]
+  },
+  {
+    "nom": "Ukraine",
+    "capitale": "Kyiv",
+    "continent": "Europe",
+    "population": 44000000,
+    "superficieKm2": 603628,
+    "languesOfficielles": ["ukrainien"]
+  },
+  {
+    "nom": "Uruguay",
+    "capitale": "Montevideo",
+    "continent": "Amérique",
+    "population": 3500000,
+    "superficieKm2": 176215,
+    "languesOfficielles": ["espagnol"]
+  },
+  {
+    "nom": "Vanuatu",
+    "capitale": "Port-Vila",
+    "continent": "Océanie",
+    "population": 320000,
+    "superficieKm2": 12189,
+    "languesOfficielles": ["bichelamar", "anglais", "français"]
+  },
+  {
+    "nom": "Venezuela",
+    "capitale": "Caracas",
+    "continent": "Amérique",
+    "population": 28000000,
+    "superficieKm2": 916445,
+    "languesOfficielles": ["espagnol"]
+  },
+  {
+    "nom": "Viêt Nam",
+    "capitale": "Hanoï",
+    "continent": "Asie",
+    "population": 100000000,
+    "superficieKm2": 331212,
+    "languesOfficielles": ["vietnamien"]
+  },
+  {
+    "nom": "Yémen",
+    "capitale": "Sanaa",
+    "continent": "Asie",
+    "population": 34000000,
+    "superficieKm2": 527968,
+    "languesOfficielles": ["arabe"]
+  },
+  {
+    "nom": "Zambie",
+    "capitale": "Lusaka",
+    "continent": "Afrique",
+    "population": 20000000,
+    "superficieKm2": 752612,
+    "languesOfficielles": ["anglais"]
+  },
+  {
+    "nom": "Zimbabwe",
+    "capitale": "Harare",
+    "continent": "Afrique",
+    "population": 16000000,
+    "superficieKm2": 390757,
+    "languesOfficielles": ["anglais", "shona", "ndébélé"]
+  }
+]
