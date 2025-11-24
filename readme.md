@@ -36,6 +36,9 @@
    1. [Fouille](notes/chapitre4/fouille.md)
    2. [Tri](notes/chapitre4/tri.md)
    3. [Expression régulière](notes/chapitre4/regex.md)
+ * Ressources supplémentaires
+   1. [Tuto et livres](notes/supp/ressources.md)
+   2. [Structure de projet](notes/supp/structure.md)
 
 ## Ateliers
  * Chapitre 1
