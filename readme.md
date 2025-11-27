@@ -39,6 +39,8 @@
  * Ressources supplémentaires
    1. [Tuto et livres](notes/supp/ressources.md)
    2. [Structure de projet](notes/supp/structure.md)
+   3. [Normes de programmation](notes/supp/normes.md)
+   4. [Cheatsheet version markdown](notes/supp/cheatsheet.md)
 
 ## Ateliers
  * Chapitre 1
