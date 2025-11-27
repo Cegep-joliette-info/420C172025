@@ -41,6 +41,7 @@
    2. [Structure de projet](notes/supp/structure.md)
    3. [Normes de programmation](notes/supp/normes.md)
    4. [Cheatsheet version markdown](notes/supp/cheatsheet.md)
+   5. [Github Copilot](notes/supp/copilot.md)
 
 ## Ateliers
  * Chapitre 1
