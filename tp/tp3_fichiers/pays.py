@@ -55,6 +55,6 @@ def listeLanguesOfficielles() -> npt.NDArray[np.str_]:
 
 
 if len(_listePays) == 0:
-    with open('fichiers/continents_pays.json', 'r') as f:
+    with open('fichiers/continents_pays.json', 'r', encoding='UTF-8') as f:
         fichierPays = f.read()
     _listePays = np.array(json.loads(fichierPays))
