@@ -11,6 +11,7 @@
    * mon_module_de_fonctions_test.py
  * .gitignore
  * README.md
+ * run_tests.py
  * main.py
 
 ## .gitignore
