@@ -11,6 +11,7 @@
    1. [Mots réservés](notes/chapitre1/mots-reserves.md)
    2. [Opérateurs et expressions](notes/chapitre1/operateurs.md)
    3. [Constantes](notes/chapitre1/constantes.md)
+   4. [VSCode pour Python](notes/chapitre1/vscode.md)
  * Chapitre 2 - Instructions conditionnelles et itératives
    1. [If](notes/chapitre2/if.md)
    2. [Écrire et lire en console](notes/chapitre2/console.md)
