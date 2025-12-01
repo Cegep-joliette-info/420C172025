@@ -72,3 +72,17 @@ Voici une liste de la majorité des fonctions `assert`, avec ce qu'ils font dans
 Les 2 dernières utilisent les regex, qui seront vus plus tard dans la session.
 
 Dans tous les exemples précédents, `a` devrait être la valeur donné par votre fonction à tester, `b` (s'il y en a un) devrait être la valeur fixe qui sert pour le test.
+
+## Utiliser une donnée privée dans les tests
+
+Si vous utilisez une donnée privée (avec un `_` au début du nom), PyRight va souligner en rouge toutes les utilisations. Pour contourner le problème, il faut ajouter un commentaire spécial au début du fichier de test:
+
+```py
+# pyright: reportPrivateUsage=false
+
+import lib.mathematique as m
+
+m._ma_variable_privee
+```
+
+Notez que ce commentaire spécial est acceptée seulement pour les tests.

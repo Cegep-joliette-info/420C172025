@@ -80,7 +80,8 @@ Avec les dictionnaires il est possible d'utiliser un typage plus précis, votre 
 ```py
 from typing import TypedDict
 
-Etudiant: TypedDict = TypedDict('Etudiant', {'nom': str, 'da': int, 'coteR': float})
+# Ne pas typer le TypedDict
+Etudiant = TypedDict('Etudiant', {'nom': str, 'da': int, 'coteR': float})
 
 lorem: Etudiant = Etudiant({})
 lorem['prenom'] = 'duuuuuude' # Warning, la clé n'existe pas dans le type
