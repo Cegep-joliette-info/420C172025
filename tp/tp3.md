@@ -1,6 +1,6 @@
 # TP3
 
-Travail individuel, à remettre avant 8h00 le lundi 15 décembre.
+Travail individuel, à remettre avant 8h00 le jeudi 18 décembre.
 
 Une démo est disponible [en mp4](../imgs/tps/tp3.mp4).
 
@@ -203,7 +203,7 @@ Lorsque vous chargerez le fichier texte correspondant à la difficulté, utilise
 
 ## Remise
 
-Avant 8h00 le lundi 15 décembre sur Github: https://classroom.github.com/a/FNZUlHtD. La grille de correction est sur Moodle et votre correction s'y trouvera.
+Avant 8h00 le jeudi 18 décembre sur Github: https://classroom.github.com/a/FNZUlHtD. La grille de correction est sur Moodle et votre correction s'y trouvera.
 
 En cas de retard, avertissez moi avant la remise et lorsque vous l'avez remis. En cas de non-respect de ces consignes, vous pourriez avoir un délais pour avoir votre note qui pourrait aller jusqu'en janvier.
 
